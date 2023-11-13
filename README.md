@@ -1,3 +1,3 @@
 # Password-Generator
-generates random password with customizable input \n
+generates random password with customizable input <br />
 Check it Out: https://harsh-s0ni.github.io/Password-Generator/
